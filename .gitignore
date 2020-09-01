@@ -1,0 +1,9 @@
+# ignore latex temp files
+*.log
+*.aux
+*.out
+*.pdf
+
+# ignore vim backup files
+*~
+*.swp
